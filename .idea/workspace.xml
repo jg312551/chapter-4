@@ -12,11 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Die.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Die.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/gameZone/Die.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="55" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="55" />
+            <state relative-caret-position="170">
+              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -33,19 +33,19 @@
       <file leaf-file-name="twoDice.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/gameZone/twoDice.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="187">
+              <caret line="11" column="46" lean-forward="true" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
               <folding>
                 <element signature="e#116#117#0" expanded="true" />
                 <element signature="e#138#139#0" expanded="true" />
-                <element signature="e#171#172#0" expanded="true" />
-                <element signature="e#192#193#0" expanded="true" />
+                <element signature="e#137#138#0" expanded="true" />
+                <element signature="e#190#191#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dieButTwo.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="dieButTwo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/gameZone/dieButTwo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
@@ -83,9 +83,9 @@
         <option value="$PROJECT_DIR$/src/exercises/sandwich.java" />
         <option value="$PROJECT_DIR$/src/exercises/testSandwichFilling.java" />
         <option value="$PROJECT_DIR$/src/gameZone/toDie.java" />
-        <option value="$PROJECT_DIR$/src/gameZone/Die.java" />
-        <option value="$PROJECT_DIR$/src/gameZone/twoDice.java" />
         <option value="$PROJECT_DIR$/src/gameZone/dieButTwo.java" />
+        <option value="$PROJECT_DIR$/src/gameZone/twoDice.java" />
+        <option value="$PROJECT_DIR$/src/gameZone/Die.java" />
       </list>
     </option>
   </component>
@@ -410,6 +410,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/gameZone/dieButTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gameZone/twoDice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="46" lean-forward="true" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+          <folding>
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/gameZone/toDie.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -419,28 +439,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/gameZone/Die.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="55" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gameZone/twoDice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#116#117#0" expanded="true" />
-            <element signature="e#138#139#0" expanded="true" />
-            <element signature="e#171#172#0" expanded="true" />
-            <element signature="e#192#193#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/gameZone/dieButTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
         </state>
       </provider>
     </entry>

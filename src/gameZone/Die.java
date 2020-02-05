@@ -8,9 +8,7 @@ public class Die {
             toDie one = new toDie();
             toDie two = new toDie();
 
-
-
-
+            
 
         }
     }
