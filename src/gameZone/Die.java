@@ -5,8 +5,11 @@ public class Die {
            int value=((int)(Math.random() *100)%6 + 1);
 
 
-            toDie one = new toDie(value);
+            toDie one = new toDie();
             toDie two = new toDie();
+
+
+
 
 
         }

@@ -4,4 +4,7 @@ public class toDie {
     private int die;
 
 
+
+
+
 }
